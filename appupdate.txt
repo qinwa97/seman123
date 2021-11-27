@@ -1,0 +1,13 @@
+{
+  "update": "Yes",
+  "new_version": "1.93",
+  "version_code":1,
+  "appdate":20200206,
+  "appwwwroot": "http://www.seman123.xyz",
+  "apk_file_url": "http://www.hmh01.com/new.apk",
+  "update_log": "1，更新了访问域名。\r\n2，其他细节更新",
+  "target_size": "1M",
+  "adimgdate":"20190314",
+  "admimgurl":"http://www.saoman.cn/logoad.jpg",
+  "constraint": false
+}
